@@ -1,0 +1,23 @@
+
+1. Temperature (F) vs. Latitude
+On 6/4/2019, the highest temperature is around latitude 20. 
+Further away from that point to north or south, the temperature goes lower.
+At each Latitude, the difference between highest temperuature and lowest temperature is similar.
+
+
+2. Humidity (%) vs. Latitude
+On 6/4/2019, there is no relation between Humidity (%) vs. Latitude.
+Humidity of 40% to 100% are majority.
+
+
+3. Cloudiness (%) vs. Latitude
+On 6/4/2019, there is no relation between Cloudiness (%) and Latitude.
+For Cloudness, at 0%, 40%, 75% and 100% are majority.
+
+
+4. Wind Speed (mph) vs. Latitude
+On 6/4/2019, there is no relation between Cloudiness (%) and Latitude.
+Wind speed of 0-8 mph are majority.
+Wind speed of 12+ mph are around -40 or 60 latitude.
+
+
